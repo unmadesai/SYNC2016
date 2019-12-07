@@ -1,0 +1,29 @@
+/* CSS Document */
+* {
+margin:0;
+padding:0;
+}
+
+html, body{
+top:0px;
+z-index:3
+}
+
+
+ 
+.scom{
+width:70%;
+min-width:1348px;
+background-color: black;
+height:750px;
+text-align:center;
+} 
+
+.text{
+	color: black;
+	font-family: serif;
+	font-size: 15px;
+	text-align: left;
+	
+}
+
